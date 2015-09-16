@@ -1,5 +1,5 @@
 
-## The following pair of functions are used to store the content of a square
+## The following pair of functions is used to store the content of a square
 ## matrix and to cache the inverse of the square matrix.
 ##
 ## Below the two functions you may find an example list of prompt commands that
